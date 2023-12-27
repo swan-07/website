@@ -31,7 +31,7 @@
 // export default ArtGallery;
 
 import React, { useState, useEffect, useCallback } from "react";
-import firebase from "pages/Firebase/firebase.js";
+import firebase from "../Firebase/firebase.js";
 
 export const ArtGallery = () => {
   const [images, setImages] = useState([]);
