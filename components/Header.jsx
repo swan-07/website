@@ -20,7 +20,7 @@ const [categories, setCategories] = useState([])
 
   return (
     <>
-    <div className="container mx-auto px-10 mb-8">
+    <div className="container mx-auto px-10 mb-8 max-w-8xl lg:mx-auto">
         <div className="border-b w-full inline-block border-grey-400 py-8">
             <div className="md:float-left block">
                 <Link href = "/">
