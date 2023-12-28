@@ -8,7 +8,7 @@ const CardGrid = () => {
                 <img src="lexmacs.png" alt="LexMACS" />
                 <div className="card-details">
                 <h3>LexMACS</h3>
-                <p>LHS Club for mathematical computer science (cybersecurity, algorithmic programming)</p>
+                <p className="text-base text-center">LHS Club for mathematical computer science (cybersecurity, algorithmic programming)</p>
                 </div>
             </div>
       </a>
