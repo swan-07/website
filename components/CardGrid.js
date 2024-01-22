@@ -9,7 +9,7 @@ const CardGrid = () => {
                 <div className="card-details">
                 <h3>LexMACS</h3>
                 <p className="text-base text-center">LHS Club for mathematical computer science (cybersecurity, algorithmic programming)</p>
-                </div>
+                </div> 
             </div>
       </a>
       <a href="https://sites.google.com/lexingtonma.org/lexingtonscioly/home" className="card">
